@@ -25,7 +25,8 @@ I actively take part in engineering projects and team based work at my universit
 ## Technical Skills
 Programming Languages  
 - Python  
-- C  
+- C
+- Java
 
 Libraries and Tools  
 - NumPy  
