@@ -18,7 +18,8 @@ I actively take part in engineering projects and team based work at my universit
 - Machine Learning  
 - Data Science  
 - Predictive Modeling  
-- Software Development  
+- Software Development
+- İHA
 
 ---
 
