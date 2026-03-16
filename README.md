@@ -1,56 +1,61 @@
-# Hi, I'm Halil Ibrahim Simsek
+# Hi, I'm Halil Ibrahim Simsek 👋
 
-AI and Machine Learning student at Bursa Technical University  
-Interested in Artificial Intelligence, Data Science and Machine Learning
-
----
-
-## About Me
-I am a first year university student focusing on artificial intelligence, machine learning and data science.  
-I aim to strengthen my theoretical knowledge by working on practical projects.  
-I enjoy analyzing data, building models and solving real world problems.  
-I actively take part in engineering projects and team based work at my university.
+🎓 **AI & Machine Learning Student** at Bursa Technical University
+🤖 Interested in **Artificial Intelligence, Data Science and Machine Learning**
+📊 Passionate about **data analysis, modeling and solving real-world problems**
 
 ---
 
-## Areas of Interest
-- Artificial Intelligence  
-- Machine Learning  
-- Data Science  
-- Predictive Modeling  
-- Software Development
-- İHA
+## 🧠 About Me
+
+* 🎓 First-year engineering student focusing on **Artificial Intelligence**
+* 📊 Working on **data analysis and machine learning projects**
+* ⚽ Interested in **football data analytics**
+* 🚀 Always learning and building new projects
 
 ---
 
-## Technical Skills
-Programming Languages  
-- Python  
-- C
-- Java
+## 🚀 Areas of Interest
 
-Libraries and Tools  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-
-Development Tools  
-- Git  
-- GitHub  
-- VS Code  
-- Jupyter Notebook  
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Predictive Modeling
+* Software Development
+* UAV / İHA Technologies
 
 ---
 
-## Currently Learning
-- Advanced Machine Learning Methods  
-- Data Analysis and Visualization  
-- Feature Engineering  
+## ⚒️ Tech Stack & Tools
+
+| Domain           | Technologies                                                                                                                                                         |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Languages        | ![Python](https://img.shields.io/badge/Python-yellow) ![C](https://img.shields.io/badge/C-blue) ![Java](https://img.shields.io/badge/Java-red)                       |
+| Data Science     | ![Pandas](https://img.shields.io/badge/Pandas-black) ![NumPy](https://img.shields.io/badge/Numpy-blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange) |
+| Machine Learning | ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange)                                                                                                   |
+| Visualization    | ![Seaborn](https://img.shields.io/badge/Seaborn-blue)                                                                                                                |
+| Tools            | ![Git](https://img.shields.io/badge/Git-orange) ![VSCode](https://img.shields.io/badge/VSCode-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-orange)          |
 
 ---
 
-## Contact
-LinkedIn: https://www.linkedin.com/in/halil-ibrahim-şimşek-236302323/
-Email: hisimsekcontact@gmail.com
+## 📊 GitHub Stats
+
+![Halil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisimsek1\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisimsek1\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn
+* 📧 Email
+* 🌍 Portfolio (coming soon)
+
+---
+
+⭐ *Always learning, always building.*
