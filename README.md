@@ -54,4 +54,4 @@ In addition to technical skills, this experience also helps me improve important
 
 ---
 
- *Always learning, always building.*
+ *Dreams come true when you work for them.*
