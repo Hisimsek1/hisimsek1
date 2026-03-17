@@ -2,7 +2,8 @@
 
 **AI & Machine Learning Student** at Bursa Technical University
  Interested in **Artificial Intelligence, Data Science and Machine Learning**
- Passionate about **data analysis, modeling and solving real-world problems**
+ Passionate about **data analysis, modeling and solving real-world problems
+ I develop the theoretical knowledge I learn through projects and by participating in hackathons.**
 
 ---
 
