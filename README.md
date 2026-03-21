@@ -1,4 +1,4 @@
-# Hi, I'm Halil Ibrahim Simsek 👋
+# Hi, I'm Halil İbrahim Simsek 👋
 
 **AI & Machine Learning Student** at Bursa Technical University
  Interested in **Artificial Intelligence, Data Science and Machine Learning**
