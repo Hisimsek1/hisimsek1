@@ -26,6 +26,7 @@ In addition to technical skills, this experience also helps me improve important
 * Predictive Modeling
 * Software Development
 * UAV / İHA Technologies
+  
 
 ---
 
