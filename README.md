@@ -52,7 +52,7 @@ In addition to technical skills, this experience also helps me improve important
 
 * LinkedIn : https://www.linkedin.com/in/halil-ibrahim-%C5%9Fim%C5%9Fek-236302323/
 * Email    : hisimsekcontact@gmail.com
-* Phone number : +90 552 347 29 1
+* Phone number : +90 552 347 29 17
 
 
 ---
