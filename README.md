@@ -40,12 +40,6 @@ In addition to technical skills, this experience also helps me improve important
 | Visualization    | ![Seaborn](https://img.shields.io/badge/Seaborn-blue)                                                                                                                |
 | Tools            | ![Git](https://img.shields.io/badge/Git-orange) ![VSCode](https://img.shields.io/badge/VSCode-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-orange)          |
 
-
-
-##  Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisimsek1\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 📫 Connect With Me
