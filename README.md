@@ -22,11 +22,11 @@ In addition to technical skills, this experience also helps me improve important
 
 <img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisimsek1&layout=compact&theme=tokyonight&hide_border=true" />
 
-- 🤖 Artificial Intelligence
-- 📊 Machine Learning & Data Science
-- 📈 Predictive Modeling
-- 💻 Software Development
-- 🚁 UAV / İHA Technologies
+-  Artificial Intelligence
+-  Machine Learning & Data Science
+-  Predictive Modeling
+-  Software Development
+-  UAV / İHA Technologies
 
 <br clear="right"/>
 
