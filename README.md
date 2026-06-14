@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a first-year Artificial Intelligence and Machine Learning student at Bursa Technical University.  
 I aim to strengthen the theoretical knowledge I gain both at university and through various online platforms by applying it to practical projects.
@@ -22,7 +22,7 @@ In addition to technical skills, this experience also helps me improve important
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 <table>
 <tr>
@@ -45,7 +45,7 @@ In addition to technical skills, this experience also helps me improve important
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="center">
 
@@ -65,7 +65,7 @@ In addition to technical skills, this experience also helps me improve important
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -76,7 +76,7 @@ In addition to technical skills, this experience also helps me improve important
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
