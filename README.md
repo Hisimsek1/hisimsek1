@@ -1,16 +1,13 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Halil%20İbrahim%20Şimşek&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 <a href="https://github.com/Hisimsek1">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Data+Science+Enthusiast;Computer+Vision+%40+Poyraz+Team;Dreams+come+true+when+you+work+for+them.&font=Fira+Code&center=true&width=600&height=50&color=4F46E5&vCenter=true&pause=1500&size=22" />
 </a>
-
 </div>
 
 ---
 
-##  About Me
+## About Me
 
 I am a first-year Artificial Intelligence and Machine Learning student at Bursa Technical University.  
 I aim to strengthen the theoretical knowledge I gain both at university and through various online platforms by applying it to practical projects.
@@ -22,7 +19,7 @@ In addition to technical skills, this experience also helps me improve important
 
 ---
 
-##  Areas of Interest
+## Areas of Interest
 
 <table>
 <tr>
@@ -36,58 +33,61 @@ In addition to technical skills, this experience also helps me improve important
 
 </td>
 <td>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisimsek1&layout=compact&theme=tokyonight&hide_border=true" />
-
 </td>
 </tr>
 </table>
 
 ---
 
-##  Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
-<p align="center">
+**Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
+**Data Science & ML**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge"/>
+</p>
+
+**Tools & Environment**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-##  GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Hisimsek1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hisimsek1&theme=tokyonight&hide_border=true" width="48%"/>
-
 </div>
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/halil-ibrahim-%C5%9Fim%C5%9Fek-236302323/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:hisimsekcontact@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -97,5 +97,4 @@ In addition to technical skills, this experience also helps me improve important
 ### *Dreams come true when you work for them.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" />
-
 </div>
