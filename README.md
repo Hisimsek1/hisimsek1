@@ -40,7 +40,7 @@ In addition to technical skills, this experience also helps me improve important
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Languages**
 
