@@ -88,8 +88,6 @@ In addition to technical skills, this experience also helps me improve important
   <img src="https://streak-stats.demolab.com?user=Hisimsek1&theme=tokyonight&hide_border=true" width="47%" />
 </div>
 
----
-
 ## Connect With Me
 
 <p align="center">
