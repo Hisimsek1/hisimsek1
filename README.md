@@ -48,48 +48,48 @@ Through collaborative engineering environments, I continue improving my skills i
 
 ## Tech Stack & Tools
 
-
 ### Programming Languages
 
-<p>
+<div>
+
 <img src="https://skillicons.dev/icons?i=python,c,java" />
-</p>
+
+</div>
 
 
 ### Data Science & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-Pandas  
-NumPy  
-Matplotlib  
-Scikit-Learn  
-Seaborn  
-PyTorch  
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- PyTorch
 
 
 ### Computer Vision
 
-OpenCV  
-YOLO  
-Deep Learning Based Vision Models  
+- OpenCV
+- YOLO
+- Deep Learning Models
 
 
-### Development Environment
+### Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode,anaconda" />
-</p>
+<div>
 
-Git  
-VS Code  
-Jupyter Notebook  
-Google Colab  
-Anaconda  
+<img src="https://skillicons.dev/icons?i=git,vscode,anaconda,jupyter" />
+
+</div>
 
 
+### Platforms
+
+- Google Colab
+- Jupyter Notebook
+- Anaconda
+- Git
 ---
 
 ## Current Focus
