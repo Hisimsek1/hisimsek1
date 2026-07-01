@@ -1,104 +1,157 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Halil%20İbrahim%20Şimşek&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header" />
 
-<a href="https://github.com/Hisimsek1">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Data+Science+Enthusiast;Computer+Vision+%40+Poyraz+Team;Dreams+come+true+when+you+work+for+them.&font=Fira+Code&center=true&width=600&height=50&color=4F46E5&vCenter=true&pause=1500&size=22" alt="Typing Animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Halil%20İbrahim%20Şimşek&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<h3>Artificial Intelligence & Machine Learning Student</h3>
+
+<p>
+Bursa Technical University<br>
+Artificial Intelligence • Machine Learning • Computer Vision • Software Development
+</p>
+
 </div>
+
 
 ---
 
 ## About Me
 
-I am an Artificial Intelligence and Machine Learning undergraduate at Bursa Technical University. 
-I aim to strengthen my theoretical knowledge by applying it directly to practical, real-world projects.
+I am an Artificial Intelligence and Machine Learning undergraduate student at Bursa Technical University.
 
-Currently, I am a member of the software team at **Poyraz Team**, operating under the Aerospace and Defense Industry Society at our university. Within this team, my primary focus is on computer vision and model training.
+I aim to strengthen my theoretical knowledge by applying it directly to practical, real-world projects and developing AI-driven solutions.
 
-Beyond technical skills, these collaborative environments help me refine essential professional competencies such as effective teamwork, problem-solving under pressure, and project management.
+Currently, I am a member of the software team at **Poyraz Team**, operating under the Aerospace and Defense Industry Society at my university. My main focus areas include:
+
+- Computer Vision applications
+- Deep Learning models
+- Model training and optimization
+- AI-based software solutions
+
+Through collaborative engineering environments, I continue improving my skills in teamwork, problem solving, project development, and technical communication.
+
 
 ---
 
 ## Areas of Interest
 
-<table>
-<tr>
-<td valign="top" width="50%">
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Predictive Modeling
+- Computer Vision
+- UAV / İHA Technologies
+- Software Development
 
-* Artificial Intelligence  
-* Machine Learning & Data Science  
-* Predictive Modeling  
-* Software Development  
-* UAV / İHA Technologies  
-
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisimsek1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
 
 ---
 
 ## Tech Stack & Tools
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
-**Data Science & ML**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+
+### Data Science & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
-**Computer Vision**
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+Pandas  
+NumPy  
+Matplotlib  
+Scikit-Learn  
+Seaborn  
+PyTorch  
+
+
+### Computer Vision
+
+OpenCV  
+YOLO  
+Deep Learning Based Vision Models  
+
+
+### Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,anaconda" />
 </p>
 
-**Tools & Environment**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-</p>
+Git  
+VS Code  
+Jupyter Notebook  
+Google Colab  
+Anaconda  
+
+
+---
+
+## Current Focus
+
+Building artificial intelligence systems  
+Training and optimizing machine learning models  
+Exploring computer vision applications  
+Developing software projects  
+Working on UAV technologies  
+
 
 ---
 
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hisimsek1&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=Hisimsek1&theme=tokyonight&hide_border=true" width="47%" alt="Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hisimsek1&show_icons=true&theme=transparent&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hisimsek1&theme=transparent&hide_border=true" />
+
 </div>
+
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hisimsek1&theme=react-dark&hide_border=true" />
+
+</div>
+
+
+---
 
 ## Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/halil-ibrahim-%C5%9Fim%C5%9Fek-236302323/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hisimsek">
+
+<img src="https://skillicons.dev/icons?i=linkedin" />
+
 </a>
+
 <a href="mailto:hisimsekcontact@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+<img src="https://skillicons.dev/icons?i=gmail" />
+
 </a>
-</p>
+
+</div>
+
 
 ---
 
 <div align="center">
 
-### *Dreams come true when you work for them.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" alt="Footer" />
 </div>
